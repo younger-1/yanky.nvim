@@ -1,4 +1,5 @@
 *yanky.txt*                    Improved Yank an Put functionalities for Neovim
+                                   For NVIM v0.6.0    Last change: 2026 May 20
 
 ==============================================================================
 Table of Contents                                    *yanky-table-of-contents*
